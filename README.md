@@ -89,7 +89,9 @@ plt.show()
 ~~~
 ## Output:
 Prediction of Test Result:
+
 ![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg)
+
 Confusion Matrix:
 ![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg))
 Accuracy:
