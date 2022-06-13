@@ -9,11 +9,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
    1. Read the given dataset.
+   
    2.Fitting the dataset into the training set and test set.
+   
    3.Applying the feature scaling method.
+   
    4.Fitting the logistic regression into the training set.
+   
    5.Prediction of the test and result
+   
    6.Making the confusion matrix
+   
    7.Visualizing the training set results.
 
 ## Program:
@@ -90,17 +96,23 @@ plt.show()
 ## Output:
 Prediction of Test Result:
 
-![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg)
+![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/1.jpg)
 
 Confusion Matrix:
-![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg))
-Accuracy:
-![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/3.jpg))
-Recalling Sensitivity and Specificity:
-![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.jpg))
-Visulaizing Training set Result:
-![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/5.png))
 
+![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg)
+
+Accuracy:
+
+![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/3.jpg)
+
+Recalling Sensitivity and Specificity:
+
+![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.jpg)
+
+Visulaizing Training set Result:
+
+![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/5.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
