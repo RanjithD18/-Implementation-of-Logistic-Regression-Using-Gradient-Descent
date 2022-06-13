@@ -88,7 +88,16 @@ plt.show()
 
 ~~~
 ## Output:
-![logistic regression using gradient descent](sam.png)
+Prediction of Test Result:
+![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/1.jpg))
+Confusion Matrix:
+![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg))
+Accuracy:
+![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/3.jpg))
+Recalling Sensitivity and Specificity:
+![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.jpg))
+Visulaizing Training set Result:
+![logistic regression using gradient descent]([sam.png](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/5.png))
 
 
 ## Result:
