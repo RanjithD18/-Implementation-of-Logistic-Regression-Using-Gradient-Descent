@@ -31,9 +31,6 @@ RegisterNumber: 212221240044
 */
 ```
 ~~~
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Manoj M
-RegisterNumber:  212221240027
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
